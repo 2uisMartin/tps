@@ -1,0 +1,50 @@
+[
+  {
+    "nome": "Luca",
+    "cognome": "Ferrari",
+    "citta": "Anzio",
+    "indirizzo": "Via Roma 12",
+    "cap": "00042",
+    "età": 7
+  },
+  {
+    "nome": "Simone",
+    "cognome": "Bianchi",
+    "citta": "Treviglio",
+    "indirizzo": "Via Verdi 8",
+    "cap": "24047",
+    "età": 26
+  },
+  {
+    "nome": "Roberto",
+    "cognome": "Gualtieri",
+    "citta": "Sassuolo",
+    "indirizzo": "Via Amendola 24",
+    "cap": "41049",
+    "età": 96
+  },
+  {
+    "nome": "Chiara",
+    "cognome": "Montesi",
+    "citta": "Ladispoli",
+    "indirizzo": "Via delle Mimose 7",
+    "cap": "00055",
+    "età": 17
+  },
+  {
+    "nome": "Gabriele",
+    "cognome": "Ricci",
+    "citta": "Ancona",
+    "indirizzo": "Via Leopardi 31",
+    "cap": "60100",
+    "età": 29
+  },
+  {
+    "nome": "Davide",
+    "cognome": "Conti",
+    "citta": "Iglesias",
+    "indirizzo": "Via Dante 19",
+    "cap": "09016",
+    "età": 25
+  }
+]
