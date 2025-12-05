@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListaMista>
+    <persona genere="M">
+        <nome>Luca</nome>
+        <Cognome>Ferrari</Cognome>
+        <citta>Anzio</citta>
+        <indirizzo>Via Roma 12</indirizzo>
+        <eta>72</eta>
+        <GSanguigno>A+</GSanguigno>
+    </persona>
+
+    <persona genere="F">
+        <nome>Simone</nome>
+        <Cognome>Bianchi</Cognome>
+        <citta>Treviglio</citta>
+        <indirizzo>Via Verdi 8</indirizzo>
+        <eta>25</eta>
+        <GSanguigno>AB-</GSanguigno>
+    </persona>
+
+    <persona genere="M">
+        <nome>Roberto</nome>
+        <Cognome>Gualtieri</Cognome>
+        <citta>Sassuolo</citta>
+        <indirizzo>Via Amendola 24</indirizzo>
+        <eta>23</eta>
+        <GSanguigno>0+</GSanguigno>
+    </persona>
+
+    <persona genere="M">
+        <nome>Chiara</nome>
+        <Cognome>Montesi</Cognome>
+        <citta>Ladispoli</citta>
+        <indirizzo>Via delle Mimose 7</indirizzo>
+        <eta>17</eta>
+        <GSanguigno>AB-</GSanguigno>
+    </persona>
+</ListaMista>
