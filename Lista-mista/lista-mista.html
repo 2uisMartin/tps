@@ -7,7 +7,7 @@
 
         function caricaDatiJ() {
             const richiesta = new XMLHttpRequest()
-            richiesta.open("GET", "https://2uisMartin.github.io/tps/Lista-Mista/listamista.json", true)
+            richiesta.open("GET", "https://2uismartin.github.io/tps/Lista-Mista/listamista.json", true)
             richiesta.send()
 
             richiesta.onload = function () {
@@ -22,7 +22,7 @@
                     myFunction(this);
                 }
             };
-            richiesta.open("GET", "https://2uisMartin.github.io/tps/Lista-Mista/listamista.xml", true);
+            richiesta.open("GET", "https://2uismartin.github.io/tps/Lista-Mista/listamista.xml", true);
             richiesta.send();
             function myFunction(file) {
                 filehttp = file.responseXML;
